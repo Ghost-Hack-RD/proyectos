@@ -1,0 +1,9 @@
+# Entorno virtual
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Claves y reportes generados (pueden contener datos de terceros)
+.env
+reporte_telefonico.json
